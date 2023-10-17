@@ -1,13 +1,9 @@
 {
-  "homepage": "https://DEVA5112002.github.io/react-Dashboard",
+  "homepage": "https://DEVA5112002.github.io/dashboard-reactjs",
   "name": "soft-ui-dashboard-react",
   "version": "4.0.1",
   "author": "Creative Tim",
-  "license": "SEE LICENSE IN <https://www.creative-tim.com/license>",
-  "description": "ReactJS version of Soft UI Dashboard by Creative Tim",
-  "bugs": {
-    "url": ""
-  },
+  "description": "ReactJS ",
   "repository": {
     "type": "git",
     "url": ""
